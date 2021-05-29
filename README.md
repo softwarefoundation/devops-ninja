@@ -16,3 +16,13 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 1. Processadores ARM
 1. BuildKit no lugar do Docker
 1. Curso mais completo da Udemy para DevOps, Docker e Kubernetes
+
+
+<p align="center">
+  	<h1>Arquitetura</h1>
+	<a href="">
+		<img src="https://i.imgur.com/XOlHWVY.png">
+	</a>
+</p>
+
+![Oracle Cloud Infrastructure 2019 Certified Architect Professional](https://images.credly.com/size/110x110/images/1b9e2535-31dc-405d-8c05-ee2a53d50477/11_OCI_Architect_Professional_2019.png)
