@@ -26,10 +26,12 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 </p>
 
 
+Made with :heart: by [Dherkyan Ribeiro](https://www.credly.com/users/dherkyan-ribeiro-da-silva/badges)
+
+![Oracle Cloud Infrastructure 2019 Certified Architect Professional](https://images.credly.com/size/110x110/images/1b9e2535-31dc-405d-8c05-ee2a53d50477/11_OCI_Architect_Professional_2019.png)
+
+
+
 ## Referências:
 
 Esse projeto foi desenvolvido durante o curso: [DevOps Ninja: Docker, Kubernetes e Rancher ](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/) /  [Repositório de Referência](https://github.com/jonathanbaraldi/devops)
-
-
-
-![Oracle Cloud Infrastructure 2019 Certified Architect Professional](https://images.credly.com/size/110x110/images/1b9e2535-31dc-405d-8c05-ee2a53d50477/11_OCI_Architect_Professional_2019.png)
